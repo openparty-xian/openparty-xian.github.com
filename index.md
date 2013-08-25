@@ -5,6 +5,14 @@ tagline:
 ---
 {% include JB/setup %}
 
+<header class="jumbotron subhead" id="overview">
+  <div class="container">
+    <h1>Scaffolding</h1>
+    <p class="lead">Bootstrap is built on responsive 12-column grids, layouts, and components.</p>
+    <div id="carbonads-container"><div class="carbonad"><div id="azcarbon"><span class="carbonad-image"><a href="http://ad.doubleclick.net/jump/N5192.734586.CARBONADS.NET/B7325765.2;sz=130x100;pc=[TPAS_ID];ord=1377435282943?" target="_blank"><img class="carbonad-image carbonad-img" src="http://ad.doubleclick.net/ad/N5192.734586.CARBONADS.NET/B7325765.2;sz=130x100;pc=[TPAS_ID];ord=1377435282943?" border="0" width="130" height="100" alt="Advertisement" data-pinit="registered"></a> </span><span class="carbonad-text"><a href="http://ad.doubleclick.net/jump/N5192.734586.CARBONADS.NET/B7325765.2;sz=130x100;pc=[TPAS_ID];ord=1377435282943?" target="_blank">iStockphoto:</a> Royalty free stock photos </span><span class="carbonad-tag"> ads via <a href="http://carbonads.com">Carbon</a></span><img height="0px" width="0px" border="0" src="http://engine.carbonads.com/i.gif?e=eyJhdiI6MjE0MDUsImF0IjoxLCJjbSI6NDI1OTYsImNoIjoxMjA0LCJjciI6MTE1MzY3LCJkaSI6Ijg0MGZhYzdmODFiMjRjOGM5M2RjMjdlZGZiOTAyYWI2IiwiZG0iOjEsImZjIjoxNjA2NjQsImZsIjo3Nzg1NSwibnciOjM5LCJydiI6Mi41LCJwciI6NDQ4Miwic3QiOjMyMzQxLCJ6biI6MH0&amp;s=18vFjOJXlA5QVIaUe1ILQX0m6Tw"></div><script type="text/javascript">var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://engine.carbonads.com/z/32341/azcarbon_2_1_0_HORIZDARK"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
+  </div>
+</header>
+
 <article class="container">
 	        <div class="span10">
 		    <div class="hero">
